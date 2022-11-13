@@ -8,24 +8,16 @@
 
 Water quality has a direct impact on public health and the environment. Water is used for various purposes such as drinking,agriculture and industry. Drinking water quality varies from place to place, depending on the condition of the source water. Also the water is not properly treated or that travels through an improperly maintained distribution system(pipes) may also create conditions that increase risk of contamination.Therefore, water quality is essential for all living beings. So, this project aims to build a machine learning model to predict water quality by considering all water quality standard indicators.
 
-*DATASET*:
+*DATASET*
 
 The dataset contains the column names such as
 
-Temp
-
-D.O(mg/l)
-
-pH
-
-Conductivity
-
-B.O.D.(mg/l)
-
-Nitratenan N + Nitratenan (mg/l)
-
-Fecal coliform (MPN/100ml)
-
-Total coliform (MPN/100ml)
-
-Year
+  Temp,
+  D.O(mg/l),
+  pH,
+  Conductivity,
+  B.O.D.(mg/l),
+  Nitratenan N + Nitratenan (mg/l),
+  Fecal coliform (MPN/100ml),
+  Total coliform (MPN/100ml),
+  Year
