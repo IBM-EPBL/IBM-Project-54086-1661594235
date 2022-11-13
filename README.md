@@ -10,7 +10,7 @@ Water quality has a direct impact on public health and the environment. Water is
 
 **DATASET**
 
-     The dataset contains the column names such as
+The dataset contains the column names such as
 
   Temp,
   D.O(mg/l),
