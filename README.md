@@ -13,11 +13,19 @@ Water quality has a direct impact on public health and the environment. Water is
 The dataset contains the column names such as
 
 Temp
+
 D.O(mg/l)
+
 pH
+
 Conductivity
+
 B.O.D.(mg/l)
+
 Nitratenan N + Nitratenan (mg/l)
+
 Fecal coliform (MPN/100ml)
+
 Total coliform (MPN/100ml)
+
 Year
