@@ -1,5 +1,5 @@
 
-<h2>**Efficient Water Quality Analysis And Prediction using Machine Learning**</h2>
+**<h2>Efficient Water Quality Analysis And Prediction using Machine Learning</h2>**
 
 ![Capture](https://user-images.githubusercontent.com/113278588/201519184-6519023f-fd17-4693-bfff-17b54c84d395.PNG)
 
