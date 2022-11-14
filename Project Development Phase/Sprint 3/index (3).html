@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Water Quality</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='styles/stylesheet.css') }}">
+</head>
+<body>
+    <div class="name">
+            Water Quality
+         </div>
+         <div class="context">
+           
+               "Access to scfe drinking-water is essential to health "
+         
+         </div>
+         <div class="project">
+    <form method="POST" action ="/predict">
+       <h1 > Water Quality</h1>
+               <input name="tl"  placeholder="Enter temp" required>
+               <input name="dw"  placeholder="Enter DO"  required>
+               <input name="pl" placeholder="Enter Ph" required>
+               <input name="cw"  placeholder="Enter conductivity"  required>
+               <input name="bl"  placeholder="Enter BDO"  required>
+               <input name="nw"  placeholder="Enter nit" required>
+               <input name="cl" placeholder="Enter coliform" required>
+			   <center><input class="btn" type=submit name="submit_button" value=PREDICT></center></center>
+
+    </form>
+</body>
+</html>
