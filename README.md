@@ -39,7 +39,7 @@ The dataset contains the column names such as
 
 **DOCUMENT**:
 
-Link for PDF :
+Link for PDF : https://github.com/IBM-EPBL/IBM-Project-54086-1661594235/blob/main/Final%20Deliverables/Export.pdf
 
 **PROJECT DEMO VIDEO LINK**
 
