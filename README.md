@@ -46,7 +46,7 @@ Link for Dataset : https://github.com/IBM-EPBL/IBM-Project-54086-1661594235/blob
 
 **DOCUMENT**:
 
-Link for PDF : https://github.com/IBM-EPBL/IBM-Project-54086-1661594235/blob/main/Final%20Deliverables/Export.pdf
+Link for PDF : https://github.com/IBM-EPBL/IBM-Project-54086-1661594235/blob/main/Final%20Deliverables/Document.pdf
 
 **PROJECT DEMO VIDEO LINK**
 
