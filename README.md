@@ -1,5 +1,7 @@
-
+**<h1>IBM-Project-54086-1661594235</h1>**
 **<h2>Efficient Water Quality Analysis And Prediction using Machine Learning</h2>**
+
+*<h5>Team ID - PNT2022MID39728</h5>*
 
 ![Capture](https://user-images.githubusercontent.com/113278588/201519184-6519023f-fd17-4693-bfff-17b54c84d395.PNG)
 
@@ -36,6 +38,7 @@ The dataset contains the column names such as
 Link for Dataset : https://github.com/IBM-EPBL/IBM-Project-54086-1661594235/blob/main/Final%20Deliverables/water_data1.txt
 
 
+
 **ARCHITECTURE**:
 
 ![J](https://user-images.githubusercontent.com/113278588/201520406-19aab376-a4a0-4687-b068-4045e23b7c8a.PNG)
@@ -49,3 +52,14 @@ Link for PDF : https://github.com/IBM-EPBL/IBM-Project-54086-1661594235/blob/mai
 
 
 YouTube link : https://youtu.be/IiiQ7Whdb-w
+
+
+**SQUAD**:
+
+This project done by,
+
+*Sundareshwar,
+Dhanasekar,
+Sriram,
+Mohanraj,
+Shalini*
