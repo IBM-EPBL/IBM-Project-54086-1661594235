@@ -11,9 +11,11 @@ Water quality has a direct impact on public health and the environment. Water is
 
 **PROJECT FLOW**
 
-The user interacts with the UI (User Interface) to give the input values.
-The input values should evaluated which is integrated with flask application.
-Then the model will predict the values given by the user and show it is good or not.
+1.The user interacts with the UI (User Interface) to give the input values.
+
+2.The input values should evaluated which is integrated with flask application.
+
+3.Then the model will predict the values given by the user and show it is good or not.
 
 **DATASET**
 
