@@ -58,7 +58,7 @@ YouTube link : https://youtu.be/IiiQ7Whdb-w
 
 This project done by,
 
-*Sundareshwar,
+*Sundhareshwar,
 Dhanasekar,
 Sriram,
 Mohanraj,
